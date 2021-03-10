@@ -1,0 +1,44 @@
+img {
+  width: 450px;
+  border-radius: 70px;
+  
+}
+
+body {
+  text-align:center;
+  
+}
+
+#para {
+  font-size: 30px;
+  font-family: monospace
+  
+    
+  
+}
+
+h1{
+  font-size: 50px;
+  font-family: monospace
+}
+
+.about{
+    background: linear-gradient(#4287f5 0%, #c542f5 100%);
+    background-repeat: no-repeat;
+}
+.hobby{
+    background: linear-gradient(#ff7b00 0%, #ff00b3 100%);
+    background-repeat: no-repeat;
+}
+.menu{
+    background: linear-gradient(#2200ff 0%, #ff00b3 100%);
+    
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: darkorange;
+}
+
